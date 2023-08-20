@@ -2,7 +2,7 @@
 
 I am Kirill Sandow — Full Stack dev from Saint-Petersburg.
 
-### :wrench: My main stack:
+### :wrench: My main stack
 
 [![Django, TypeScript, React, Java](https://skillicons.dev/icons?i=django,ts,react,java)](https://skillicons.dev)
 
