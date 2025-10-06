@@ -1,6 +1,6 @@
 ## Hi!
 
-I am Kirill Sandow — Full Stack dev from Saint-Petersburg.
+I am Cyril Sandow — Full Stack dev from Saint-Petersburg.
 
 ### :wrench: My main stack
 
