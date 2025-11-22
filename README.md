@@ -10,11 +10,11 @@ In BE I mostly prefer
 
 I have experience with these data stores and ORMs:
 
-![icons](https://skillicons.dev/icons?i=postgres,redis,prisma,mongodb,kafka,hibernate)
+![icons](https://skillicons.dev/icons?i=postgres,redis,prisma,mongodb,kafka,hibernate,elasticsearch)
 
 At FE I use
 
-![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,yarn,sentry)
+![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,yarn,sentry,electron)
 
 Also I love DevOps-ing
 
