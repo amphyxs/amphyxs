@@ -6,7 +6,7 @@ I am Cyril Sandow — Full Stack dev from Saint-Petersburg.
 
 In BE I mostly prefer
 
-![icons](https://skillicons.dev/icons?i=django,spring)
+![icons](https://skillicons.dev/icons?i=django,spring,express)
 
 I have experience with these DBs
 
@@ -15,5 +15,9 @@ I have experience with these DBs
 At FE I use
 
 ![icons](https://skillicons.dev/icons?i=react,angular,nextjs)
+
+Also I love DevOps-ing
+
+![icons](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus)
 
 
