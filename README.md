@@ -18,6 +18,6 @@ At FE I use
 
 Also I love DevOps-ing
 
-![icons](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus)
+![icons](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus,nginx)
 
 
