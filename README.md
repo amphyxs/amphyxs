@@ -20,8 +20,12 @@ Also I love DevOps-ing
 
 ![icons](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus,nginx,linux,kubernetes,githubactions)
 
-Also I have experience with low-level stuff and gamedev
+Also I have experience with low-level stuff
 
-![icons](https://skillicons.dev/icons?i=arduino,cpp,c,blender,unity,linux,kubernetes,githubactions)
+![icons](https://skillicons.dev/icons?i=arduino,cpp,c)
+
+And 3D+gamedev
+
+![icons](https://skillicons.dev/icons?i=blender,unity)
 
 
