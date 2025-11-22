@@ -14,7 +14,7 @@ I have experience with these DBs
 
 At FE I use
 
-![icons](https://skillicons.dev/icons?i=react,angular,vue,remix,less,vite,vitest,yarn,sentry)
+![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,yarn,sentry)
 
 Also I love DevOps-ing
 
