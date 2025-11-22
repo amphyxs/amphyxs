@@ -14,6 +14,6 @@ I have experience with these DBs
 
 At FE I use
 
-![icons](https://skillicons.dev/icons?i=react,angular,remix)
+![icons](https://skillicons.dev/icons?i=react,angular,nextjs)
 
 
