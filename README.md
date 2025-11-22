@@ -14,10 +14,14 @@ I have experience with these data stores and ORMs:
 
 At FE I use
 
-![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,cypress,yarn,sentry,electron)
+![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,cypress,threejs,yarn,sentry,electron)
 
 Also I love DevOps-ing
 
 ![icons](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus,nginx,linux,kubernetes,githubactions)
+
+Also I have experience with low-level stuff and gamedev
+
+![icons](https://skillicons.dev/icons?i=arduino,cpp,c,blender,unity,linux,kubernetes,githubactions)
 
 
