@@ -14,7 +14,7 @@ I have experience with these DBs
 
 At FE I use
 
-![icons](https://skillicons.dev/icons?i=react,angular,vue,nextjs,less,jest)
+![icons](https://skillicons.dev/icons?i=react,angular,vue,nextjs,less,jest,yarn)
 
 Also I love DevOps-ing
 
