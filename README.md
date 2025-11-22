@@ -10,7 +10,7 @@ In BE I mostly prefer
 
 I have experience with these DBs and ORMs
 
-![icons](https://skillicons.dev/icons?i=postgres,redis,prisma)
+![icons](https://skillicons.dev/icons?i=postgres,redis,prisma,mongodb)
 
 At FE I use
 
