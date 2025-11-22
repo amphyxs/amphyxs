@@ -14,7 +14,7 @@ I have experience with these data stores and ORMs:
 
 At FE I use
 
-![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,yarn,sentry,electron)
+![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,cypress,yarn,sentry,electron)
 
 Also I love DevOps-ing
 
