@@ -8,9 +8,9 @@ In BE I mostly prefer
 
 ![icons](https://skillicons.dev/icons?i=django,spring,express)
 
-I have experience with these DBs
+I have experience with these DBs and ORMs
 
-![icons](https://skillicons.dev/icons?i=postgres,redis)
+![icons](https://skillicons.dev/icons?i=postgres,redis,prisma)
 
 At FE I use
 
