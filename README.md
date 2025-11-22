@@ -1,4 +1,4 @@
-## Hi!
+## 👋 Hi!
 
 I am Cyril Sandow — Full Stack dev from Saint-Petersburg.
 
