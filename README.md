@@ -6,7 +6,7 @@ I am Cyril Sandow — Full Stack dev from Saint-Petersburg.
 
 In BE I mostly prefer
 
-![icons](https://skillicons.dev/icons?i=django,spring,maven,express)
+![icons](https://skillicons.dev/icons?i=django,spring,maven,express,graphql)
 
 I have experience with these data stores and ORMs:
 
@@ -14,7 +14,7 @@ I have experience with these data stores and ORMs:
 
 At FE I use
 
-![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,yarn,sentry,graphql)
+![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,yarn,sentry)
 
 Also I love DevOps-ing
 
