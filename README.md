@@ -68,16 +68,14 @@
 ### Demography tracking system
 
 <kbd>
-  <img width="48" height="48" alt="Spring Framework" title="Spring Framework" src="https://skillicons.dev/icons?i=spring" />
-  <img width="48" height="48" alt="Jakarta EE" title="Jakarta EE" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Jakarta_EE_logo.svg" />
-  <img width="48" height="48" alt="REST" title="REST" src="https://cdn.worldvectorlogo.com/logos/rest-api.svg" />
-  <img width="48" height="48" alt="EJB" title="Enterprise JavaBeans" src="https://skillicons.dev/icons?i=java" />
+  <img width="48" height="48" alt="Mule ESB" title="Mule ESB" src="https://newrelic.com/sites/default/files/quickstarts/images/icons/mule-esb--logo.svg" />
+  <img width="48" height="48" alt="Spring" title="Spring" src="https://skillicons.dev/icons?i=spring" />
+  <img width="48" height="48" alt="Jakarta EE" title="Jakarta EE" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Jakarta_ee_logo_stacked.png/1200px-Jakarta_ee_logo_stacked.png" />
   <img width="48" height="48" alt="Consul" title="Consul" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
-  <img width="48" height="48" alt="HAProxy" title="HAProxy" src="https://upload.wikimedia.org/wikipedia/commons/0/03/HAProxy_logo.svg" />
-  <img width="48" height="48" alt="Mule ESB" title="Mule ESB" src="https://www.mulesoft.org/assets/images/mule-logo-blue.svg" />
-  <img width="48" height="48" alt="SOAP" title="SOAP" src="https://skillicons.dev/icons?i=xml" />
+  <img width="48" height="48" alt="HAProxy" title="HAProxy" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" />
+  <img width="48" height="48" alt="SOAP" title="SOAP" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTel4FnQRoBH4ADVK068iDfZ0HJbsUyTTuzbw&s" />
 </kbd>
 
 - Designed and implemented **APIs** for 2 microservices using **Spring** and **Jakarta EE**
 - Used **REST** and remote **EJB** for inter-service communication; employed **Consul** for service discovery and **HAProxy** for load balancing
-- Implemented an alternative version with **SOA** design using **Mule ESB** for services integration and **SOAP** for messaging
+- Implemented an alternative version with **SOA** design using **Mule ESB** for service integration and **SOAP** for messaging
