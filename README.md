@@ -64,3 +64,14 @@
 
 - Contributed to the **Tramvai** OSS SSR framework (based on **React**)
 - Implemented progressive enhancement for forms, inspired by **Remix**
+
+### Staff management system
+
+<kbd>
+  <img width="48" height="48" alt="React" title="React" src="https://newrelic.com/sites/default/files/quickstarts/images/icons/mule-esb--logo.svg" />
+  <img width="48" height="48" alt="Remix" title="Remix" src="https://skillicons.dev/icons?i=spring" />
+  <img width="48" height="48" alt="Redux" title="Redux" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Jakarta_ee_logo_stacked.png/1200px-Jakarta_ee_logo_stacked.png" />
+  <img width="48" height="48" alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
+  <img width="48" height="48" alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" />
+  <img width="48" height="48" alt="Angular" title="Angular" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTel4FnQRoBH4ADVK068iDfZ0HJbsUyTTuzbw&s" />
+</kbd>
