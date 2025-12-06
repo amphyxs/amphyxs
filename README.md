@@ -9,7 +9,7 @@
 - 2022-2024: **Django** + **Angular** full-stack dev at [games.mindskills.online](https://games.mindskills.online)
 - 2024-now: **Angular** frontend dev at [business.tbank.ru](https://business.tbank.ru)
 
-### :wrench: Projects I participated
+## :wrench: Projects I participated
 
 > [!NOTE]  
 > Hover icon to see technology name tooltip
@@ -157,7 +157,7 @@
 - Used build tools: **CMake**, **Make**, **Visual Studio**
 - Researched **Windows** and **Linux** kernel internals, structure of file systems (**FAT**, **ext4**)
 
-### Java Programming & Algorithms
+### Java Programming & Algorithms by ITMO
 
 <kbd>
   <img width="48" height="48" alt="LeetCode" title="LeetCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" />
@@ -173,7 +173,7 @@
 - Built a Java server: multithreaded request handling, bare **TCP sockets**, shared **JAR** library for DTOs
 - Built a Java client: file I/O, UI with **Swing** and **JavaFX**
 
-### Artifical Intelligence & AI Agents
+### Artifical Intelligence & AI Agents by ITMO
 
 <kbd>
   <img width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot" src="https://i.namu.wiki/i/CeE41BydWC_0zAWRce7doL_m4A6ag-1_D_ipMf90mePbUHAt2uwbyrSz1f8EOBHZX180BHoQW-kE4ZHvcRIbsA.webp" />
