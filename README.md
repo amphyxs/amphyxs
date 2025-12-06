@@ -9,7 +9,10 @@
 - 2022-2024: **Django** + **Angular** full-stack dev at [games.mindskills.online](https://games.mindskills.online)
 - 2024-now: **Angular** frontend dev at [business.tbank.ru](https://business.tbank.ru)
 
-### :wrench: My projects
+### :wrench: Projects I participated
+
+> [!NOTE]  
+> Hover icon to see technology name tooltip
 
 ### [games.mindskills.online](https://games.mindskills.online)
 
@@ -81,18 +84,32 @@
 - Used **REST** and remote **EJB** for inter-service communication; employed **Consul** for service discovery and **HAProxy** for load balancing
 - Implemented an alternative version with **SOA** design using **Mule ESB** for service integration and **SOAP** for messaging
 
-### Video moderating system
+### Video moderation system
 
 <kbd>
   <img width="48" height="48" alt="Camunda" title="Camunda" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMj9SWKjF5bndYxIBKn2wMO0LgT0MQQOnBtnZuZm1aA&s=10" />
   <img width="48" height="48" alt="Spring" title="Spring" src="https://skillicons.dev/icons?i=spring" />
-  <img width="48" height="48" alt="ActiveMQ" title="ActiveMQ" src="https://activemq.apache.org/assets/img/activemq_logo_white_vertical.png"/>
+  <img width="48" height="48" alt="Apache ActiveMQ" title="Apache ActiveMQ" src="https://activemq.apache.org/assets/img/activemq_logo_white_vertical.png" />
   <img width="48" height="48" alt="JAAS" title="JAAS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBuDPjfXxwsWv2EsSiVNXchar1AIvXu89j4Et5143Ous5xG0Mg96HVUI&s=10"/>
   <img width="48" height="48" alt="Jira API" title="Jira API" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVKd6cixonAtOQ_BH6GdyKOSn1XCD_zfHVL87YV3TWuv2rEXBym-OitI&s=10"/>
   <img width="48" height="48" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
 </kbd>
 
-- Designed business proccesses using Camunda BPM, connected it to delegates in Spring microservices
-- Used ActiveMQ to communicate between services
-- Implemented RBAC using JAAS
-- Automated ticket creation for staff using Jira API & JCA
+- Designed business processes with **Camunda BPM**; implemented Java delegates in **Spring** microservices  
+- Used **Apache ActiveMQ** for inter‑service messaging  
+- Implemented RBAC with **JAAS**  
+- Automated ticket creation via **Jira REST API** and **JCA**
+
+### Games store
+
+<kbd>
+  <img width="48" height="48" alt="Spring" title="Spring" src="https://skillicons.dev/icons?i=spring" />
+  <img width="48" height="48" alt="Vue" title="Vue" src="https://skillicons.dev/icons?i=vue" />
+  <img width="48" height="48" alt="PrimeVue" title="PrimeVue" src="https://www.primefaces.org/wp-content/uploads/2019/12/primevue-logo.png" />
+  <img width="48" height="48" alt="Varnish Cache" title="Varnish Cache" src="https://cdn.worldvectorlogo.com/logos/varnish.svg" />
+  <img width="48" height="48" alt="PL/pgSQL" title="PL/pgSQL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzKBeCKI8GoJkW36F87TZRPaaNjNa01OdhjGizXYS0nJ5KvA6S6HtDCqS1rSVj_cxKf4&usqp=CAU" />
+</kbd>
+
+- Built backend with **Spring** and frontend with **Vue** + **PrimeVue**
+- Implemented backend request caching using **Varnish Cache**
+- Analyzed data‑layer performance; migrated suitable logic to **PL/pgSQL** procedures/functions for efficiency
