@@ -9,30 +9,58 @@
 - 2022-2024: Django + Angular full-stack dev at [games.mindskills.online](https://games.mindskills.online)
 - 2024-now: Angular frontend dev at [busuiness.tbank.ru](https://business.tbank.ru)
 
-### :wrench: My main stack
+### :wrench: My projects
 
-In BE I mostly prefer:
+### [games.mindskills.online](https://games.mindskills.online)
 
-![icons](https://skillicons.dev/icons?i=django,fastapi,spring,maven,express,graphql&theme=light)
+<kbd>
+  <img width="48" height="48" alt="Django Rest Framework" title="Django Rest Framework" src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" />
+  <img width="48" height="48" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="48" height="48" alt="Celery" title="Celery" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" />
+  <img width="48" height="48" alt="Redis" title="Redis" src="https://skillicons.dev/icons?i=redis" />
+  <img width="48" height="48" alt="Cloudflare" title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare" />
+  <img width="48" height="48" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
+  <img width="48" height="48" alt="Jenkins" title="Jenkins" src="https://skillicons.dev/icons?i=jenkins" />
+  <img width="48" height="48" alt="Jest" title="Jest" src="https://skillicons.dev/icons?i=jest" />
+  <img width="48" height="48" alt="Cypress" title="Cypress" src="https://skillicons.dev/icons?i=cypress&theme=light" />
+  <img width="48" height="48" alt="Yandex Cloud" title="Yandex Cloud" src="https://onellect.ru/upload/medialibrary/1c8/1c8f8dc8bdc9162ae612292e49686439.png" />
+  <img width="48" height="48" alt="Nginx" title="Nginx" src="https://skillicons.dev/icons?i=nginx" />
+  <img width="48" height="48" alt="Kubernetes" title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />
+</kbd>
 
-Have experience with these data stores and ORMs:
+- Built interactive math games for children using **Angular 14-20** and **Django REST Framework**
+- Developed a custom **CRM** for managers and teachers of online schools
+- Set up **Jenkins CI** for linting **BE** and **FE** projects; ran tests and coverage with **Pytest**, **Cypress**, and **Jest**
+- Designed infrastructure with **Nginx** (static assets, load balancing), **Cloudflare** (caching, DDoS protection, domain management), **Celery** (task scheduling), and **Redis** (caching)
+- Deployed to **Yandex Cloud** with managed **PostgreSQL** and **Kubernetes**
+- Interviewed developers for **FE** and **BE** roles
 
-![icons](https://skillicons.dev/icons?i=postgres,redis,prisma,mongodb,kafka,hibernate,elasticsearch&theme=light)
+### [business.tbank.ru](https://business.tbank.ru)
 
-At FE:
+<kbd>
+  <img width="48" height="48" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
+  <img width="48" height="48" alt="Playwright" title="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img width="48" height="48" alt="Vitest" title="Vitest" src="https://skillicons.dev/icons?i=vitest" />
+  <img width="48" height="48" alt="Sentry" title="Sentry" src="https://skillicons.dev/icons?i=sentry" />
+  <img width="48" height="48" alt="RxJS" title="RxJS" src="https://skillicons.dev/icons?i=reactivex" />
+  <img width="48" height="48" alt="NgRx" title="NgRx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" />   
+  <img width="48" height="48" alt="Grafana" title="Grafana" src="https://skillicons.dev/icons?i=grafana" />   
+  <img width="48" height="48" alt="n8n" title="n8n" src="https://hackceleration.com/wp-content/uploads/2025/09/Design-sans-titre-11-1.png" /> 
+  <img width="48" height="48" alt="Module Federation" title="Module Federation" src="https://avatars.githubusercontent.com/u/61727377?s=280&v=4" /> 
+</kbd>
 
-![icons](https://skillicons.dev/icons?i=react,angular,reactivex,vue,remix,less,vite,vitest,cypress,threejs,yarn,sentry,electron&theme=light)
+- Built frontend apps (/tender-platform, /import, /loans) with **Angular 18-21**, **RxJS**, and **NgRx**; tests with **Jest** and **Playwright**
+- Evaluated **Vitest** for Angular; implemented component tests and documented performance/efficiency findings
+- Established observability with **Grafana** and **Sentry**; automated workflows using **n8n**
+- Contributed to an internal microfrontend platform using **Webpack Module Federation**
 
-Also I love DevOps-ing:
+### [Tramvai SSR Framework](https://tramvai.dev/)
 
-![icons](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus,nginx,linux,kubernetes,githubactions&theme=light)
+<kbd>
+  <img width="48" height="48" alt="React" title="React" src="https://skillicons.dev/icons?i=react" />
+  <img width="48" height="48" alt="Remix" title="Remix" src="https://skillicons.dev/icons?i=remix" />
+  <img width="48" height="48" alt="Redux" title="Redux" src="https://skillicons.dev/icons?i=redux" />
+</kbd>
 
-Some experience with low-level stuff:
-
-![icons](https://skillicons.dev/icons?i=arduino,cpp,c&theme=light)
-
-And 3D+gamedev:
-
-![icons](https://skillicons.dev/icons?i=blender,unity&theme=light)
-
-
+- Contributed to the **Tramvai** OSS SSR framework (based on **React**)
+- Implemented progressive enhancement for forms, inspired by **Remix**
