@@ -100,7 +100,7 @@
 - Implemented RBAC with **JAAS**  
 - Automated ticket creation via **Jira REST API** and **JCA**
 
-### Games store
+### [Games store](https://github.com/amphyxs/is-cw)
 
 <kbd>
   <img width="48" height="48" alt="Spring" title="Spring" src="https://skillicons.dev/icons?i=spring" />
