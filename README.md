@@ -6,15 +6,15 @@
 
 💼 Have 6 years working experience:
 - 2019-2022: making web apps on freelance
-- 2022-2024: Django + Angular full-stack dev at [games.mindskills.online](https://games.mindskills.online)
-- 2024-now: Angular frontend dev at [busuiness.tbank.ru](https://business.tbank.ru)
+- 2022-2024: **Django** + **Angular** full-stack dev at [games.mindskills.online](https://games.mindskills.online)
+- 2024-now: **Angular** frontend dev at [business.tbank.ru](https://business.tbank.ru)
 
 ### :wrench: My projects
 
 ### [games.mindskills.online](https://games.mindskills.online)
 
 <kbd>
-  <img width="48" height="48" alt="Django Rest Framework" title="Django Rest Framework" src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" />
+  <img width="48" height="48" alt="Django REST Framework" title="Django REST Framework" src="https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png" />
   <img width="48" height="48" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img width="48" height="48" alt="Celery" title="Celery" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" />
   <img width="48" height="48" alt="Redis" title="Redis" src="https://skillicons.dev/icons?i=redis" />
@@ -50,7 +50,7 @@
 </kbd>
 
 - Built frontend apps (/tender-platform, /import, /loans) with **Angular 18-21**, **RxJS**, and **NgRx**; tests with **Jest** and **Playwright**
-- Evaluated **Vitest** for Angular; implemented component tests and documented performance/efficiency findings
+- Evaluated **Vitest** for **Angular**; implemented component tests and documented performance/efficiency findings
 - Established observability with **Grafana** and **Sentry**; automated workflows using **n8n**
 - Contributed to an internal microfrontend platform using **Webpack Module Federation**
 
@@ -62,20 +62,22 @@
   <img width="48" height="48" alt="Redux" title="Redux" src="https://skillicons.dev/icons?i=redux" />
 </kbd>
 
-- Contributed to the **Tramvai** OSS SSR framework (based on **React**)
+- Contributed to the **Tramvai** OSS **SSR** framework (based on **React**)
 - Implemented progressive enhancement for forms, inspired by **Remix**
 
 ### Demography tracking system
 
 <kbd>
-  <img width="48" height="48" alt="React" title="React" src="https://newrelic.com/sites/default/files/quickstarts/images/icons/mule-esb--logo.svg" />
-  <img width="48" height="48" alt="Remix" title="Remix" src="https://skillicons.dev/icons?i=spring" />
-  <img width="48" height="48" alt="Redux" title="Redux" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Jakarta_ee_logo_stacked.png/1200px-Jakarta_ee_logo_stacked.png" />
-  <img width="48" height="48" alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
-  <img width="48" height="48" alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" />
-  <img width="48" height="48" alt="Angular" title="Angular" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTel4FnQRoBH4ADVK068iDfZ0HJbsUyTTuzbw&s" />
+  <img width="48" height="48" alt="Spring Framework" title="Spring Framework" src="https://skillicons.dev/icons?i=spring" />
+  <img width="48" height="48" alt="Jakarta EE" title="Jakarta EE" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Jakarta_EE_logo.svg" />
+  <img width="48" height="48" alt="REST" title="REST" src="https://cdn.worldvectorlogo.com/logos/rest-api.svg" />
+  <img width="48" height="48" alt="EJB" title="Enterprise JavaBeans" src="https://skillicons.dev/icons?i=java" />
+  <img width="48" height="48" alt="Consul" title="Consul" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
+  <img width="48" height="48" alt="HAProxy" title="HAProxy" src="https://upload.wikimedia.org/wikipedia/commons/0/03/HAProxy_logo.svg" />
+  <img width="48" height="48" alt="Mule ESB" title="Mule ESB" src="https://www.mulesoft.org/assets/images/mule-logo-blue.svg" />
+  <img width="48" height="48" alt="SOAP" title="SOAP" src="https://skillicons.dev/icons?i=xml" />
 </kbd>
 
-- Specified API for 2 microservices and developed it using Spring & Jakarta EE
-- Used REST & remote EJB for service communications  Consul for service discovery, HAProxy for load balancing
-- Also wrote version with SOA design, using Mule ESB for services connection and SOAP
+- Designed and implemented **APIs** for 2 microservices using **Spring** and **Jakarta EE**
+- Used **REST** and remote **EJB** for inter-service communication; employed **Consul** for service discovery and **HAProxy** for load balancing
+- Implemented an alternative version with **SOA** design using **Mule ESB** for services integration and **SOAP** for messaging
