@@ -172,3 +172,35 @@
 - Learned design patterns: creational (**Singleton**, **Factory Method**, **Builder**, **Prototype**); structural (**Adapter**, **Bridge**, **Composite**, **Decorator**, **Facade**, **Proxy**, **Flyweight**); behavioral (**Strategy**, **Observer**, **Command**, **State**, **Template Method**, **Iterator**, **Mediator**, **Memento**, **Chain of Responsibility**, **Visitor**); concurrency (**Thread Pool**, **Future/Promise**, **Producer–Consumer**, **Read–Write Lock**); architectural (**MVC/MVP/MVVM**, **Clean Architecture**, **DDD**)
 - Built a Java server: multithreaded request handling, bare **TCP sockets**, shared **JAR** library for DTOs
 - Built a Java client: file I/O, UI with **Swing** and **JavaFX**
+
+### Artifical Intelligence & AI Agents
+
+<kbd>
+  <img width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot" src="https://i.namu.wiki/i/CeE41BydWC_0zAWRce7doL_m4A6ag-1_D_ipMf90mePbUHAt2uwbyrSz1f8EOBHZX180BHoQW-kE4ZHvcRIbsA.webp" />
+  <img width="48" height="48" alt="Cursor" title="Cursor" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" />
+  <img width="48" height="48" alt="MCP" title="MCP" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" />
+  <img width="48" height="48" alt="Numpy" title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img width="48" height="48" alt="Sklearn" title="Sklearn" src="https://skillicons.dev/icons?i=sklearn" />
+  <img width="48" height="48" alt="Protege" title="Protege" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFLQyXc0uWRJtw2xHF355iYXo_-BuN1j86g&s" />
+  <img width="48" height="48" alt="Prolog" title="Prolog" src="https://www.swi-prolog.org/icons/swipl.png" />
+  <img width="48" height="48" alt="Pandas" title="Pands" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+</kbd>
+
+- Practiced development with AI agents (**GitHub Copilot**, **Cursor**); used **MCP** to integrate external tools (**Power BI**, web browser, **Jira**)
+- Learned dataset creation and preparation with **Pandas** and **NumPy**
+- Studied AI/ML algorithms: linear regression, decision trees, k‑nearest neighbors, logistic regression, neural networks
+- Researched knowledge graphs; built two:
+  - Monopoly turn decision using **Prolog**
+  - Football match winner prediction using **Protégé**
+
+### Gamedev & 3D by ITMO
+
+<kbd>
+  <img width="48" height="48" alt="Unity" title="Unity" src="https://skillicons.dev/icons?i=unity" />
+  <img width="48" height="48" alt="Blender" title="Blender" src="https://skillicons.dev/icons?i=blender" />
+  <img width="48" height="48" alt="C#" title="C#" src="https://skillicons.dev/icons?i=cs" />
+  <img width="48" height="48" alt="Oculus VR" title="Oculus VR" src="https://ichehol.ru/upload/iblock/2d3/fper3btu5nwyc8e375d5wsx5ic2htkht.png" />
+</kbd>
+
+- Modeled 3D rooms and characters in **Blender**
+- Built a **VR** game for **Oculus Quest** using **Unity 3D**
