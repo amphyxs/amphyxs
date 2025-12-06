@@ -1,7 +1,9 @@
 ## 👋 Hi! I am Cyril Sandow
 
 🌐 Full Stack web dev
+
 🎓 Getting Software engineering bachelor degree at ITMO University
+
 💼 Have 6 years working experience:
 - 2019-2022: making web apps on freelance
 - 2022-2024: Django + Angular full-stack dev at games.mindskills.online
