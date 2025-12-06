@@ -65,7 +65,7 @@
 - Contributed to the **Tramvai** OSS SSR framework (based on **React**)
 - Implemented progressive enhancement for forms, inspired by **Remix**
 
-### Staff management system
+### Demography tracking system
 
 <kbd>
   <img width="48" height="48" alt="React" title="React" src="https://newrelic.com/sites/default/files/quickstarts/images/icons/mule-esb--logo.svg" />
@@ -75,3 +75,7 @@
   <img width="48" height="48" alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" />
   <img width="48" height="48" alt="Angular" title="Angular" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTel4FnQRoBH4ADVK068iDfZ0HJbsUyTTuzbw&s" />
 </kbd>
+
+- Specified API for 2 microservices and developed it using Spring & Jakarta EE
+- Used REST & remote EJB for service communications  Consul for service discovery, HAProxy for load balancing
+- Also wrote version with SOA design, using Mule ESB for services connection and SOAP
