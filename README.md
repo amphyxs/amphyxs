@@ -155,4 +155,20 @@
 - Wrote **C++** benchmarks for CPU‑ and IO‑bound algorithms; profiled with **Windows Performance Analyzer** on Windows and **perf**, **top**, **iostat**, **vmstat**, **bpftrace** on Linux
 - Implemented **C++** disk page caching
 - Used build tools: **CMake**, **Make**, **Visual Studio**
-- Researched **Windows** and **Linux** kernel internals
+- Researched **Windows** and **Linux** kernel internals, structure of file systems (**FAT**, **ext4**)
+
+### Java Programming & Algorithms
+
+<kbd>
+  <img width="48" height="48" alt="LeetCode" title="LeetCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" />
+  <img width="48" height="48" alt="Java" title="Java" src="https://skillicons.dev/icons?i=java" />
+  <img width="48" height="48" alt="Java" title="Java" src="https://skillicons.dev/icons?i=gradle" />
+  <img width="48" height="48" alt="JavaFX" title="JavaFX" src="https://www.qftest.com/images/JavaFX.png" />
+  <img width="48" height="48" alt="Java Swing" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" />
+</kbd>
+
+- Learned core **Java**: OOP principles, **java.io/java.nio**, networking, JDK layout, GC internals
+- Studied algorithms & data structures: linked lists, stacks, queues, hash tables, heaps, trees (**BST**, **red–black**, **segment**), tries; sorting (**quick/merge/heap**); searching (**binary**, **ternary**); graphs (**BFS/DFS**, **Dijkstra**, **Bellman–Ford**, **Floyd–Warshall**); **DP**, greedy, divide & conquer, **union–find**
+- Learned design patterns: creational (**Singleton**, **Factory Method**, **Builder**, **Prototype**); structural (**Adapter**, **Bridge**, **Composite**, **Decorator**, **Facade**, **Proxy**, **Flyweight**); behavioral (**Strategy**, **Observer**, **Command**, **State**, **Template Method**, **Iterator**, **Mediator**, **Memento**, **Chain of Responsibility**, **Visitor**); concurrency (**Thread Pool**, **Future/Promise**, **Producer–Consumer**, **Read–Write Lock**); architectural (**MVC/MVP/MVVM**, **Clean Architecture**, **DDD**)
+- Built a Java server: multithreaded request handling, bare **TCP sockets**, shared **JAR** library for DTOs
+- Built a Java client: file I/O, UI with **Swing** and **JavaFX**
