@@ -79,3 +79,18 @@
 - Designed and implemented **APIs** for 2 microservices using **Spring** and **Jakarta EE**
 - Used **REST** and remote **EJB** for inter-service communication; employed **Consul** for service discovery and **HAProxy** for load balancing
 - Implemented an alternative version with **SOA** design using **Mule ESB** for service integration and **SOAP** for messaging
+
+### Video moderating system
+
+<kbd>
+  <img width="48" height="48" alt="Camunda" title="Camunda" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMj9SWKjF5bndYxIBKn2wMO0LgT0MQQOnBtnZuZm1aA&s=10" />
+  <img width="48" height="48" alt="Spring" title="Spring" src="https://skillicons.dev/icons?i=spring" />
+  <img width="48" height="48" alt="ActiveMQ" title="ActiveMQ" src="https://activemq.apache.org/assets/img/activemq_logo_white_vertical.png"/>
+  <img width="48" height="48" alt="JAAS" title="JAAS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBuDPjfXxwsWv2EsSiVNXchar1AIvXu89j4Et5143Ous5xG0Mg96HVUI&s=10"/>
+  <img width="48" height="48" alt="Jira API" title="Jira API" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVKd6cixonAtOQ_BH6GdyKOSn1XCD_zfHVL87YV3TWuv2rEXBym-OitI&s=10"/>
+</kbd>
+
+- Designed business proccesses using Camunda BPM, connected it to delegates in Spring microservices
+- Used ActiveMQ to communicate between services
+- Implemented RBAC using JAAS
+- Automated ticket creation for staff using Jira API & JCA
