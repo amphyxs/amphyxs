@@ -108,8 +108,51 @@
   <img width="48" height="48" alt="PrimeVue" title="PrimeVue" src="https://www.primefaces.org/wp-content/uploads/2019/12/primevue-logo.png" />
   <img width="48" height="48" alt="Varnish Cache" title="Varnish Cache" src="https://cdn.worldvectorlogo.com/logos/varnish.svg" />
   <img width="48" height="48" alt="PL/pgSQL" title="PL/pgSQL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzKBeCKI8GoJkW36F87TZRPaaNjNa01OdhjGizXYS0nJ5KvA6S6HtDCqS1rSVj_cxKf4&usqp=CAU" />
+  <img width="48" height="48" alt="Vue" title="Vue" src="https://skillicons.dev/icons?i=hibernate" />
 </kbd>
 
 - Built backend with **Spring** and frontend with **Vue** + **PrimeVue**
 - Implemented backend request caching using **Varnish Cache**
 - Analyzed data‑layer performance; migrated suitable logic to **PL/pgSQL** procedures/functions for efficiency
+
+## 📖 Courses
+
+### DevOps by Skillfactory
+
+<kbd>
+  <img width="48" height="48" alt="Vagrant" title="Vagrant" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" />
+  <img width="48" height="48" alt="Ansible" title="Ansible" src="https://skillicons.dev/icons?i=ansible" />
+  <img width="48" height="48" alt="Cloudflare" title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare" />
+  <img width="48" height="48" alt="Grafana" title="Grafana" src="https://skillicons.dev/icons?i=grafana" />
+  <img width="48" height="48" alt="Prometheus" title="Prometheus" src="https://skillicons.dev/icons?i=prometheus" />
+  <img width="48" height="48" alt="Kubernetes" title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />
+  <img width="48" height="48" alt="Docker Swarm" title="Docker Swarm" src="https://berkertopuz.com/content/images/2024/09/docker-swarm-1.png" />
+  <img width="48" height="48" alt="AWS" title="AWS" src="https://skillicons.dev/icons?i=aws" />
+  <img width="48" height="48" alt="Terraform" title="Terraform" src="https://skillicons.dev/icons?i=terraform" />
+  <img width="48" height="48" alt="Apache Kafka" title="Apache Kafka" src="https://skillicons.dev/icons?i=kafka" />
+  <img width="48" height="48" alt="Elasticsearch" title="Elasticsearch" src="https://skillicons.dev/icons?i=elasticsearch" />
+</kbd>
+
+- Built and automated infrastructure with **AWS**, **Terraform**, **Ansible**, and **Cloudflare**
+- Deployed apps using **Docker**, **Docker Compose**, **Docker Swarm**, **Vagrant**, and **Kubernetes**
+- Set up observability with **Prometheus**, **Grafana**, and **ELK Stack** (**Elasticsearch**, **Kibana**, **Logstash**)
+- Applied architectural patterns: **bastion host**, **load balancing**, **circuit breaker**, **message broker** (**Kafka**)
+
+### Low-lewel Programming & Operating systems by ITMO
+
+<kbd>
+  <img width="48" height="48" alt="C++" title="C++" src="https://skillicons.dev/icons?i=cpp" />
+  <img width="48" height="48" alt="C" title="C" src="https://skillicons.dev/icons?i=c" />
+  <img width="48" height="48" alt="NASM" title="NASM" src="https://cs.lmu.edu/~ray/images/nasm-logo.png" />
+  <img width="48" height="48" alt="Linux Kernel API" title="Linux Kernel API" src="https://skillicons.dev/icons?i=linux" />
+  <img width="48" height="48" alt="Windows NT API" title="Windows NT API" src="https://skillicons.dev/icons?i=windows" />
+  <img width="48" height="48" alt="CMake" title="CMake" src="https://skillicons.dev/icons?i=cmake" />
+  <img width="48" height="48" alt="Makefile" title="Makefile" src="https://fileproinfo.com/images/makefile_file_extension.png" />
+</kbd>
+
+- Built two bare‑metal **x86 ASM** apps: a string manipulator and a dictionary data structure
+- Implemented **C** programs: **BMP** rotation and sepia filter using **SIMD/vector instructions**
+- Wrote **C++** benchmarks for CPU‑ and IO‑bound algorithms; profiled with **Windows Performance Analyzer** on Windows and **perf**, **top**, **iostat**, **vmstat**, **bpftrace** on Linux
+- Implemented **C++** disk page caching
+- Used build tools: **CMake**, **Make**, **Visual Studio**
+- Researched **Windows** and **Linux** kernel internals
