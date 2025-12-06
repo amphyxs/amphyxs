@@ -6,8 +6,8 @@
 
 💼 Have 6 years working experience:
 - 2019-2022: making web apps on freelance
-- 2022-2024: Django + Angular full-stack dev at games.mindskills.online
-- 2024-now: Angular frontend dev at busuiness.tbank.ru
+- 2022-2024: Django + Angular full-stack dev at [games.mindskills.online](https://games.mindskills.online)
+- 2024-now: Angular frontend dev at [busuiness.tbank.ru](https://business.tbank.ru)
 
 ### :wrench: My main stack
 
