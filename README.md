@@ -74,6 +74,7 @@
   <img width="48" height="48" alt="Consul" title="Consul" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
   <img width="48" height="48" alt="HAProxy" title="HAProxy" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png" />
   <img width="48" height="48" alt="SOAP" title="SOAP" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTel4FnQRoBH4ADVK068iDfZ0HJbsUyTTuzbw&s" />
+  <img width="48" height="48" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
 </kbd>
 
 - Designed and implemented **APIs** for 2 microservices using **Spring** and **Jakarta EE**
@@ -88,6 +89,7 @@
   <img width="48" height="48" alt="ActiveMQ" title="ActiveMQ" src="https://activemq.apache.org/assets/img/activemq_logo_white_vertical.png"/>
   <img width="48" height="48" alt="JAAS" title="JAAS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBuDPjfXxwsWv2EsSiVNXchar1AIvXu89j4Et5143Ous5xG0Mg96HVUI&s=10"/>
   <img width="48" height="48" alt="Jira API" title="Jira API" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVKd6cixonAtOQ_BH6GdyKOSn1XCD_zfHVL87YV3TWuv2rEXBym-OitI&s=10"/>
+  <img width="48" height="48" alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
 </kbd>
 
 - Designed business proccesses using Camunda BPM, connected it to delegates in Spring microservices
