@@ -84,7 +84,7 @@
 - Used **REST** and remote **EJB** for inter-service communication; employed **Consul** for service discovery and **HAProxy** for load balancing
 - Implemented an alternative version with **SOA** design using **Mule ESB** for service integration and **SOAP** for messaging
 
-### Video moderation system
+### [Video moderation system](https://github.com/amphyxs/video-moderation)
 
 <kbd>
   <img width="48" height="48" alt="Camunda" title="Camunda" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMj9SWKjF5bndYxIBKn2wMO0LgT0MQQOnBtnZuZm1aA&s=10" />
