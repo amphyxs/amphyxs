@@ -178,7 +178,7 @@
 <kbd>
   <img width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot" src="https://i.namu.wiki/i/CeE41BydWC_0zAWRce7doL_m4A6ag-1_D_ipMf90mePbUHAt2uwbyrSz1f8EOBHZX180BHoQW-kE4ZHvcRIbsA.webp" />
   <img width="48" height="48" alt="Cursor" title="Cursor" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" />
-  <img width="48" height="48" alt="MCP" title="MCP" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" />
+  <img width="48" height="48" alt="MCP" title="MCP" src="https://assets.pluga.co/apps/icons/pluga_mcp/pluga_mcp-icon.svg" />
   <img width="48" height="48" alt="Numpy" title="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <img width="48" height="48" alt="Sklearn" title="Sklearn" src="https://skillicons.dev/icons?i=sklearn" />
   <img width="48" height="48" alt="Protege" title="Protege" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFLQyXc0uWRJtw2xHF355iYXo_-BuN1j86g&s" />
