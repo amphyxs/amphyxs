@@ -12,7 +12,7 @@
 ## :wrench: Projects I participated
 
 > [!NOTE]  
-> Hover icon to see technology name tooltip
+> Hover or long press the icon to see technology name tooltip
 
 ### [games.mindskills.online](https://games.mindskills.online)
 
