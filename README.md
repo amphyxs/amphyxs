@@ -117,6 +117,19 @@
 
 ## 📖 Courses
 
+### Databases and distributed systems by ITMO
+
+<kbd>
+  <img width="48" height="48" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+ <img width="48" height="48" alt="MongoDB" title="MongoDB" src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" /> 
+<img width="48" height="48" alt="SQLite" title="SQLite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" />  
+</kbd>
+
+- Learnt the SQL: queries & functions, Joins, Subqueries, DDL, DML, DCL, TCL, Constraints & Indexes, Window Functions, CTEs, Query Optimization, Execution Plans
+- Designed the DB: drew ER-diagram, decomposed it to 3NF, added indexes & triggers, introduced some PL/pgSQL procedures for effective data-layer computations
+- Researched the distributed data system: 2PC, Saga (choreography & orchestration), polyglot persistence, CAP theorem, eventual consistency, sharding, replication, consensus algorithms (Paxos, Raft), event sourcing, CQRS
+- Discovered the internals of PostgreSQL: WAL, pgpool, failover configuring, shared buffers, MVCC, VACUUM, TOAST-tables, replication (streaming, logical)
+
 ### DevOps by Skillfactory
 
 <kbd>
