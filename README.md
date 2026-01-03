@@ -68,6 +68,17 @@
 - Contributed to the **Tramvai** OSS **SSR** framework (based on **React**)
 - Implemented progressive enhancement for forms, inspired by **Remix**
 
+### [antishift-js](https://github.com/amphyxs/antishift-js)
+
+<kbd>
+  <img width="48" height="48" alt="MutationObserver" title="MutationObserver" src="https://media.istockphoto.com/id/1684386044/vector/dna-sequence-with-magnifying-glass-vector-icon.jpg?s=612x612&w=0&k=20&c=Sg_j0vyQZYHUpOxXNqqRgnnE6b60WsnZ7kHmzBOHrf0=" />
+ <img width="48" height="48" alt="NPM" title="NPM" src="https://skillicons.dev/icons?i=npm" />
+</kbd>
+
+- Developed a JS lib for preventing moving of hovered UI elements for improving UX
+- Designed an algorithm with a usage of MutationObserver to make it work in any web-application
+- Published it to NPM registry
+
 ### [Demography tracking system](https://github.com/amphyxs/demography-tracking)
 
 <kbd>
