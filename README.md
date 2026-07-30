@@ -2,9 +2,9 @@
 
 🌐 Full Stack web dev
 
-🎓 Getting Software engineering bachelor degree at ITMO University
+🎓 Software engineering degree at ITMO University
 
-💼 Have **6 years** working experience:
+💼 Have **7 years** working experience:
 - 2019-2022: making web apps on freelance
 - 2022-2024: **Django** + **Angular** full-stack dev at [games.mindskills.online](https://games.mindskills.online)
 - 2024-now: **Angular** frontend dev at [business.tbank.ru](https://business.tbank.ru)
